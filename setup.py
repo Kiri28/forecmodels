@@ -10,7 +10,7 @@ setup(
     version="0.0.1",
     author="Jeff Hale",
     author_email="jeffmshale@gmail.com",
-    description="A package to convert your Jupyter Notebook",
+    description="A package to building forecasting models",
     long_description=readme,
     long_description_content_type="text/markdown",
     url="https://github.com/Kiri28/forecmodels/",
