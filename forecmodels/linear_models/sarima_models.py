@@ -2,21 +2,7 @@ from sklearn.base import BaseEstimator
 import numpy as np
 import pandas as pd
 
-import matplotlib.pyplot as plt
-%matplotlib inline
-
 from sklearn.linear_model import LinearRegression
-from sklearn.metrics import mean_squared_error as MSE
-from sklearn.metrics import mean_absolute_error as MAE
-from sklearn.metrics import explained_variance_score as R2
-from sklearn.model_selection import train_test_split
-from tqdm import tqdm
-from sklearn.model_selection import cross_val_score, KFold
-from sklearn.model_selection import TimeSeriesSplit
-from statsmodels.tsa.statespace.sarimax import SARIMAX
-from sklearn.pipeline import Pipeline
-from sklearn.linear_model import Ridge, Lasso
-from sklearn.model_selection import GridSearchCV
 
 class SARIMA_estim():
     
