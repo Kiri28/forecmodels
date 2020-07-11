@@ -30,5 +30,5 @@ def test(extra_args=None, exit=False):
     return tst(extra_args=extra_args, exit=exit)
 
 
-__version__ = get_versions()['version']
-del get_versions
+#__version__ = get_versions()['version']
+#del get_versions
