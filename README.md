@@ -6,3 +6,6 @@ This is a test version of package for statistics, econometrics and trading estim
 
 # Documentation
 Comming soon! 
+
+# Main Features
+Comming soon!
