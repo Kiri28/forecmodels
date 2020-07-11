@@ -1,4 +1,4 @@
-|PyPI Version|
+|PyPi|_
 
 # About forecmodels
 
