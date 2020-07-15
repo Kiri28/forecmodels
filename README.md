@@ -8,4 +8,6 @@ This is a test version of package for statistics, econometrics and trading estim
 Comming soon! 
 
 # Main Features
-Comming soon!
+-   Red
+-   -  Green
+-   Blue
