@@ -1,4 +1,4 @@
-![PyPI](https://img.shields.io/pypi/v/nine?color=red) [![Python](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/)
+![PyPI](https://img.shields.io/pypi/v/nine?color=orange) [![Python](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/)
 
 # About forecmodels
 
