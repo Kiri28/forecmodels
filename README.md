@@ -12,4 +12,5 @@ Comming soon!
     -  Seasonal ARIMA models
     -  AR and ARMA models
 -   Exponentian smoothing models
+    - Double exponential smoothing model
     -  Holt-Winters
