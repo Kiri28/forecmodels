@@ -14,3 +14,8 @@ Comming soon!
 -   Exponentian smoothing models
     - Double exponential smoothing model
     -  Holt-Winters
+-   Moving average models
+    -  Simple moving average
+    -  Weighted moving average
+-   Decompositions and transforms
+    -  BoxCox (froward and reverse transform)
