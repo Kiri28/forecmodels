@@ -8,6 +8,8 @@ This is a test version of package for statistics, econometrics and trading estim
 Comming soon! 
 
 # Main Features
--   Red
-    -  Green
--   Blue
+-   Linear models
+    -  Seasonal ARIMA models
+    -  AR and ARMA models
+-   Exponentian smoothing models
+    -  Holt-Winters
