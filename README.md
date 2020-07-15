@@ -1,4 +1,4 @@
-[![Python](https://pypi.org/project/statsmodels/)
+[![PyPI](https://pypi.org/project/statsmodels/)
 
 # About forecmodels
 
