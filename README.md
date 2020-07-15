@@ -9,5 +9,5 @@ Comming soon!
 
 # Main Features
 -   Red
-  -  Green
+    -  Green
 -   Blue
