@@ -19,3 +19,7 @@ Comming soon!
     -  Weighted moving average
 -   Decompositions and transforms
     -  BoxCox (froward and reverse transform)
+
+------
+# Also
+TBA
